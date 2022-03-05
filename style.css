@@ -1,0 +1,52 @@
+body
+{
+ margin:0px;
+ background-color:rgba(218,197,216,0.575);
+}
+.top
+{
+ background-color:rgb(182,129,32);
+}
+.color_box
+{
+ height:15vw;
+ width:15vw;
+ display:inline-block;
+ background-color:aqua;
+ margin:1%;
+ border-radius:4vw;
+}
+.options
+{
+ text-align:center;
+ margin-left:-7vw;
+}
+h1,h2
+{
+ text-align:center;
+ margin:0%;
+ color:antiquewhite;
+}
+.color_options
+{
+ margin:0vw 22vw;
+}
+button
+{
+ height:3vw;
+ width:16vw;
+ border:0px;
+ border-radius:1vw;
+ background-color:rgb(151,122,145);
+ color:antiquewhite;
+ font-size:1.5vw;
+}
+button:hover
+{
+ background-color:rgb(168,56,125);
+}
+p
+{
+ text-align:center;
+ color:rgb(73,22,51);
+}
